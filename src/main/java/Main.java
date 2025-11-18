@@ -9,6 +9,9 @@ public class Main {
     private static void doSomething(){
         System.out.println("Something was done");
     }
+    private static int userTwoDoesSomething(){
+        return 900;
+    }
     public static String amazingMethod(){
         return "AMAZING SPIDERMAN IS NOT AMAZING";
     }
