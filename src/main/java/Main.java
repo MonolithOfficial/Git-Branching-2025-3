@@ -12,5 +12,8 @@ public class Main {
     private static int userTwoDoesSomething(){
         return 900;
     }
+    public static String amazingMethod(){
+        return "AMAZING SPIDERMAN IS NOT AMAZING";
+    }
 }
 
