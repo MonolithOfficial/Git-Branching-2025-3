@@ -9,5 +9,8 @@ public class Main {
     private static void doSomething(){
         System.out.println("Something was done");
     }
+    public static String amazingMethod(){
+        return "AMAZING SPIDERMAN IS NOT AMAZING";
+    }
 }
 
